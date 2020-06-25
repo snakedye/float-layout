@@ -31,12 +31,15 @@ Icons : Papirus
 <h3>Latte Dock</h3>
 <hr>
 <h5>Kubuntu</h5>
-Follow theses instructions <br>
-```https://www.youtube.com/watch?v=GQvKUMQOcn0```
-<h5>Arch</h5>
-```latte-dock-git is available on Arch official repositories.```
+Follow theses instructions
 
- Plasmoids to download :
+https://www.youtube.com/watch?v=GQvKUMQOcn0
+<br>
+<h5>Arch</h5>
+
+latte-dock-git is available on Arch official repositories.
+
+Plasmoids to download :
  <ul>
     <!--<li> [Virtual Desktop 
 Bar](https://github.com/wsdfhjxc/virtual-desktop-bar) </li>-->
