@@ -57,7 +57,7 @@ P-State</a></li>
 <hr>
 Wallpaper : Home - 
 [dynamic-wallpaper](https://github.com/adi1090x/dynamic-wallpaper)
- 
+<br>
 [Powerlevel10k](https://github.com/romkatv/powerlevel10k)
 
 Firefox/Browser :
@@ -72,5 +72,3 @@ Startpage](https://github.com/manilarome/the-glorious-startpage)</li>-->
  </ul>
 
 Kwin : [Krohnkite](https://github.com/esjeon/krohnkite) and ForceBlur
-
-If you are fortunate
