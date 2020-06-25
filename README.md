@@ -65,9 +65,7 @@ Firefox/Browser :
 	<li><a href='https://github.com/manilarome/the-glorious-startpage'>The 
 Glorious 
 Startpage</a></li>
-   <!-- <li> [Blurredfox](https://github.com/manilarome/blurredfox)</li>
-    <li>[The Glorious 
-Startpage](https://github.com/manilarome/the-glorious-startpage)</li>-->
  </ul>
 
-Kwin : [Krohnkite](https://github.com/esjeon/krohnkite) and ForceBlur
+Kwin : [Krohnkite](https://github.com/esjeon/krohnkite) and [Quarter 
+Tiling](https://github.com/Jazqa/kwin-quarter-tiling)
