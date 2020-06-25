@@ -55,10 +55,11 @@ P-State</a></li>
 
 <h3>Others</h3>
 <hr>
-Wallpaper : Home - 
-[dynamic-wallpaper](https://github.com/adi1090x/dynamic-wallpaper)
-<br>
-[Powerlevel10k](https://github.com/romkatv/powerlevel10k)
+Wallpaper :
+ <ul>
+	<li><a href='https://github.com/adi1090x/dynamic-wallpaper'>dynamic-wallpaper</a></li>
+	<li><a href='https://github.com/romkatv/powerlevel10k'>Powerlevel10k</a></li>
+ </ul>
 
 Firefox/Browser :
  <ul>
