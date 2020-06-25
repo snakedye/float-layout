@@ -1,6 +1,6 @@
 # Plasma Float
 ![Alt text](/screenshots/screenshot.png?raw=true "Title")
-
+Following the instrctions in the order presented will avoid some issues.
 <h3>Plasma Setting</h3>
 <hr>
 
@@ -47,7 +47,7 @@ Bar</a></li>
     <li>  Chili clock</li>
     <li><a href='https://github.com/jsalatas/plasma-pstate.git'>Intel 
 P-State</a></li>
-<!--     <li> [Intel P-State](https://github.com/jsalatas/plasma-pstate.git) </li> -->
+    <li><a href='https://github.com/psifidotos/applet-window-buttons'>Window button applet</a></li>
 </ul>
  Layout : Float (it's available on this repository)
 
