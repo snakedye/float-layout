@@ -1,8 +1,6 @@
 # Plasma Float
 ![Alt text](/screenshots/screenshot.png?raw=true "Title")
-The floating desktop
 
-<!-- [Youtube tutorial]() -->
 <h3>Plasma Setting</h3>
 <hr>
 
