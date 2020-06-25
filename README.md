@@ -3,20 +3,21 @@
 Latte Layout for floating dock and panel
 
 [Youtube tutorial]()
-
-#Plasma Setting
+<br>
+<h3>Plasma Setting</h3>
 <hr>
- Plasma Style : Arc-Dark
+Plasma Style : Arc-Dark
  
- Window Decoration : BreezeEnhenced(https://github.com/tsujan/              BreezeEnhanced)
+Window Decoration : BreezeEnhenced(https://github.com/tsujan/              
+BreezeEnhanced)
  
- Kvantum Theme : [FlatBlur](https://www.pling.com/p/1326672)
+Kvantum Theme : [FlatBlur](https://www.pling.com/p/1326672)
  
- GTK Style : [Arc-Mac-Round-Darker](https://www.pling.com/p/1261793/)
+GTK Style : [Arc-Mac-Round-Darker](https://www.pling.com/p/1261793/)
  
- Icons : Papirus
-
-#Latte Dock
+Icons : Papirus
+<br>
+<h3>Latte Dock</h3>
 <hr>
  Plasmoid :
  <ul>
@@ -26,7 +27,7 @@ Latte Layout for floating dock and panel
 </ul>
  Layout : Float (it's available on this repository)
 
-#Others
+<h3>Others</h3>
 <hr>
 Wallpaper : [dynamic-wallpaper](https://github.com/adi1090x/dynamic-       wallpaper) (Home)
  
